@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(58, 58, 58);
+    background-image: url('./img/png2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 850px;
+}
+
+table {
+    width: 70%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+th {
+    background-color: rgb(20, 20, 20);
+    color:rgb(155, 155, 155);
+    
+}
+
+td {
+background-color: rgb(30, 30, 30);
+color: rgb(175, 175, 175);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(155, 155, 155);
+    width: 30%;
+    margin: 0 auto;
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: rgb(20, 20, 20);
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+footer {
+    background-color: rgb(30, 30, 30);
+    width: 100%;
+}
+
+footer h2 {
+    text-align: left;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color:rgb(155, 155, 155);
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+footer h4 {
+    text-align: left;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color:rgb(155, 155, 155);
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+}
